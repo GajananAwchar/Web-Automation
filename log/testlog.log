@@ -1,0 +1,914 @@
+2023-05-09 16:47:26,809 - LoginTest -INFO - Login Page Opened
+2023-05-09 16:47:26,936 - LoginTest -INFO - Entered Username
+2023-05-09 16:47:27,031 - LoginTest -INFO - Entered Password
+2023-05-09 16:47:29,049 - LoginTest -INFO - Clicked Login Button
+2023-05-09 16:47:29,089 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 16:47:29,096 - LoginTest -INFO - Validation Done
+2023-05-09 16:57:04,434 - LoginTest -INFO - Login Page Opened
+2023-05-09 16:57:04,562 - LoginTest -INFO - Entered Username
+2023-05-09 16:57:04,645 - LoginTest -INFO - Entered Password
+2023-05-09 16:57:05,935 - LoginTest -INFO - Clicked Login Button
+2023-05-09 16:57:05,982 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 16:57:05,989 - LoginTest -INFO - Validation Done
+2023-05-09 16:59:17,144 - LoginTest -INFO - Login Page Opened
+2023-05-09 16:59:17,271 - LoginTest -INFO - Entered Username
+2023-05-09 16:59:17,360 - LoginTest -INFO - Entered Password
+2023-05-09 16:59:23,642 - LoginTest -INFO - Clicked Login Button
+2023-05-09 16:59:23,685 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 16:59:23,691 - LoginTest -INFO - Validation Done
+2023-05-09 17:02:15,370 - LoginTest -INFO - Login Page Opened
+2023-05-09 17:02:15,497 - LoginTest -INFO - Entered Username
+2023-05-09 17:02:15,593 - LoginTest -INFO - Entered Password
+2023-05-09 17:02:23,482 - LoginTest -INFO - Clicked Login Button
+2023-05-09 17:02:23,525 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 17:02:23,533 - LoginTest -INFO - Validation Done
+2023-05-09 17:18:26,878 - LoginTest -INFO - Login Page Opened
+2023-05-09 17:18:26,969 - LoginTest -INFO - Entered Username
+2023-05-09 17:18:27,041 - LoginTest -INFO - Entered Password
+2023-05-09 17:18:32,482 - LoginTest -INFO - Clicked Login Button
+2023-05-09 17:18:32,524 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 17:18:32,530 - LoginTest -INFO - Validation Done
+2023-05-09 17:25:59,590 - LoginTest -INFO - Login Page Opened
+2023-05-09 17:25:59,711 - LoginTest -INFO - Entered Username
+2023-05-09 17:25:59,798 - LoginTest -INFO - Entered Password
+2023-05-09 17:26:09,480 - LoginTest -INFO - Clicked Login Button
+2023-05-09 17:26:09,523 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 17:26:09,535 - LoginTest -INFO - Validation Done
+2023-05-09 17:33:27,321 - LoginTest -INFO - Login Page Opened
+2023-05-09 17:33:27,452 - LoginTest -INFO - Entered Username
+2023-05-09 17:33:27,557 - LoginTest -INFO - Entered Password
+2023-05-09 17:33:33,480 - LoginTest -INFO - Clicked Login Button
+2023-05-09 17:33:33,521 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 17:33:33,528 - LoginTest -INFO - Validation Done
+2023-05-09 17:45:15,506 - LoginTest -INFO - Login Page Opened
+2023-05-09 17:45:15,630 - LoginTest -INFO - Entered Username
+2023-05-09 17:45:15,731 - LoginTest -INFO - Entered Password
+2023-05-09 17:45:20,489 - LoginTest -INFO - Clicked Login Button
+2023-05-09 17:50:35,556 - LoginTest -INFO - Login Page Opened
+2023-05-09 17:50:35,690 - LoginTest -INFO - Entered Username
+2023-05-09 17:50:35,778 - LoginTest -INFO - Entered Password
+2023-05-09 17:50:44,937 - LoginTest -INFO - Clicked Login Button
+2023-05-09 17:52:50,936 - LoginTest -INFO - Login Page Opened
+2023-05-09 17:52:51,062 - LoginTest -INFO - Entered Username
+2023-05-09 17:52:51,150 - LoginTest -INFO - Entered Password
+2023-05-09 17:52:59,712 - LoginTest -INFO - Clicked Login Button
+2023-05-09 17:52:59,756 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 17:52:59,763 - LoginTest -INFO - Validation Done
+2023-05-09 23:10:17,588 - LoginTest -INFO - Login Page Opened
+2023-05-09 23:10:17,707 - LoginTest -INFO - Entered Username
+2023-05-09 23:10:17,812 - LoginTest -INFO - Entered Password
+2023-05-09 23:10:19,496 - LoginTest -INFO - Clicked Login Button
+2023-05-09 23:10:19,540 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 23:10:19,547 - LoginTest -INFO - Validation Done
+2023-05-09 23:21:35,658 - LoginTest -INFO - Login Page Opened
+2023-05-09 23:21:35,789 - LoginTest -INFO - Entered Username
+2023-05-09 23:21:35,892 - LoginTest -INFO - Entered Password
+2023-05-09 23:21:37,226 - LoginTest -INFO - Clicked Login Button
+2023-05-09 23:21:37,272 - LoginTest -INFO - Logged In Sucessfully
+2023-05-09 23:21:37,280 - LoginTest -INFO - Validation Done
+2023-05-10 01:18:44,966 - LoginTest -INFO - Login Page Opened
+2023-05-10 01:18:45,057 - LoginTest -INFO - Entered Username
+2023-05-10 01:18:45,100 - LoginTest -INFO - Entered Password
+2023-05-10 01:18:49,417 - LoginTest -INFO - Clicked Login Button
+2023-05-10 01:18:49,453 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 01:18:49,463 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 01:18:49,617 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 01:18:50,414 - LoginTest -INFO - verified HomePage Title
+2023-05-10 09:39:38,549 - LoginTest -INFO - Login Page Opened
+2023-05-10 09:39:38,695 - LoginTest -INFO - Entered Username
+2023-05-10 09:39:38,794 - LoginTest -INFO - Entered Password
+2023-05-10 09:39:40,011 - LoginTest -INFO - Clicked Login Button
+2023-05-10 09:39:40,057 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 09:39:40,070 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 09:39:40,263 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 09:39:41,011 - LoginTest -INFO - verified HomePage Title
+2023-05-10 09:46:59,102 - LoginTest -INFO - Login Page Opened
+2023-05-10 09:46:59,241 - LoginTest -INFO - Entered Username
+2023-05-10 09:46:59,323 - LoginTest -INFO - Entered Password
+2023-05-10 09:47:00,601 - LoginTest -INFO - Clicked Login Button
+2023-05-10 09:47:00,643 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 09:47:00,655 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 09:47:00,855 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 09:47:01,661 - Home Page Test -INFO - verified HomePage Title
+2023-05-10 09:47:50,683 - LoginTest -INFO - Login Page Opened
+2023-05-10 09:47:50,842 - LoginTest -INFO - Entered Username
+2023-05-10 09:47:50,917 - LoginTest -INFO - Entered Password
+2023-05-10 09:47:52,266 - LoginTest -INFO - Clicked Login Button
+2023-05-10 09:47:52,308 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 09:47:52,322 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 09:47:52,521 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 09:47:53,325 - Home Page Test -INFO - verified HomePage Title
+2023-05-10 09:49:30,908 - LoginTest -INFO - Login Page Opened
+2023-05-10 09:49:31,056 - LoginTest -INFO - Entered Username
+2023-05-10 09:49:31,140 - LoginTest -INFO - Entered Password
+2023-05-10 09:49:32,434 - LoginTest -INFO - Clicked Login Button
+2023-05-10 09:49:32,478 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 09:49:32,491 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 09:49:32,671 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 09:49:35,599 - LoginTest -INFO - Entered Username
+2023-05-10 09:49:35,654 - LoginTest -INFO - Entered Password
+2023-05-10 09:49:36,882 - LoginTest -INFO - Clicked Login Button
+2023-05-10 09:49:36,914 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 09:49:36,924 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 09:49:36,936 - Home Page Test -INFO - verified HomePage Title
+2023-05-10 09:49:36,962 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-10 09:49:37,464 - LoginTest -INFO - Clicked on Logout Btn
+2023-05-10 09:49:37,474 - LoginTest -INFO - Logged out Sucessfully
+2023-05-10 09:49:37,624 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 09:51:11,824 - LoginTest -INFO - Login Page Opened
+2023-05-10 09:51:12,012 - LoginTest -INFO - Entered Username
+2023-05-10 09:51:12,143 - LoginTest -INFO - Entered Password
+2023-05-10 09:51:19,348 - LoginTest -INFO - Clicked Login Button
+2023-05-10 09:51:19,397 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 09:51:19,408 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 09:51:19,592 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 09:51:33,782 - LoginTest -INFO - Entered Username
+2023-05-10 09:51:33,872 - LoginTest -INFO - Entered Password
+2023-05-10 09:51:35,605 - LoginTest -INFO - Clicked Login Button
+2023-05-10 09:51:35,651 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 09:51:35,663 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 09:51:35,685 - Home Page Test -INFO - verified HomePage Title
+2023-05-10 13:58:21,925 - LoginTest -INFO - Login Page Opened
+2023-05-10 13:58:22,048 - LoginTest -INFO - Entered Username
+2023-05-10 13:58:22,099 - LoginTest -INFO - Entered Password
+2023-05-10 13:58:25,766 - LoginTest -INFO - Clicked Login Button
+2023-05-10 13:58:25,801 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 13:58:25,811 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 13:58:25,949 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 13:58:37,418 - LoginTest -INFO - Entered Username
+2023-05-10 13:58:37,467 - LoginTest -INFO - Entered Password
+2023-05-10 13:58:39,638 - LoginTest -INFO - Clicked Login Button
+2023-05-10 13:58:39,667 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 13:58:39,676 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 13:58:39,688 - Home Page Test -INFO - verified HomePage Title
+2023-05-10 14:03:13,298 - LoginTest -INFO - Login Page Opened
+2023-05-10 14:03:13,421 - LoginTest -INFO - Entered Username
+2023-05-10 14:03:13,469 - LoginTest -INFO - Entered Password
+2023-05-10 14:03:15,789 - LoginTest -INFO - Clicked Login Button
+2023-05-10 14:03:15,822 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 14:03:15,831 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 14:03:15,973 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 14:03:25,440 - LoginTest -INFO - Entered Username
+2023-05-10 14:03:25,484 - LoginTest -INFO - Entered Password
+2023-05-10 14:03:27,481 - LoginTest -INFO - Clicked Login Button
+2023-05-10 14:03:27,520 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 14:03:27,529 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 14:03:27,547 - Home Page Test -INFO - verified HomePage Title
+2023-05-10 14:15:33,800 - LoginTest -INFO - Login Page Opened
+2023-05-10 14:15:33,910 - LoginTest -INFO - Entered Username
+2023-05-10 14:15:33,953 - LoginTest -INFO - Entered Password
+2023-05-10 14:15:36,544 - LoginTest -INFO - Clicked Login Button
+2023-05-10 14:15:36,582 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 14:15:36,592 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 14:15:36,758 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-10 14:15:41,358 - LoginTest -INFO - Entered Username
+2023-05-10 14:15:41,404 - LoginTest -INFO - Entered Password
+2023-05-10 14:15:43,852 - LoginTest -INFO - Clicked Login Button
+2023-05-10 14:15:43,882 - LoginTest -INFO - Logged In Sucessfully
+2023-05-10 14:15:43,892 - LoginTest -INFO - LoginTest Validation Done
+2023-05-10 14:15:43,904 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:10:32,036 - LoginTest -INFO - Login Page Opened
+2023-05-12 15:10:32,181 - LoginTest -INFO - Entered Username
+2023-05-12 15:10:32,280 - LoginTest -INFO - Entered Password
+2023-05-12 15:10:33,720 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:10:33,764 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:10:33,778 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:10:34,003 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 15:10:37,392 - LoginTest -INFO - Entered Username
+2023-05-12 15:10:37,464 - LoginTest -INFO - Entered Password
+2023-05-12 15:10:38,808 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:10:38,842 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:10:38,851 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:10:38,862 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:12:15,993 - LoginTest -INFO - Login Page Opened
+2023-05-12 15:12:16,131 - LoginTest -INFO - Entered Username
+2023-05-12 15:12:16,203 - LoginTest -INFO - Entered Password
+2023-05-12 15:12:17,284 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:12:17,330 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:12:17,345 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:12:17,531 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 15:12:20,735 - LoginTest -INFO - Entered Username
+2023-05-12 15:12:20,808 - LoginTest -INFO - Entered Password
+2023-05-12 15:12:21,896 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:12:21,927 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:12:21,936 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:12:21,947 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:13:58,628 - LoginTest -INFO - Login Page Opened
+2023-05-12 15:13:58,778 - LoginTest -INFO - Entered Username
+2023-05-12 15:13:58,872 - LoginTest -INFO - Entered Password
+2023-05-12 15:14:00,459 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:14:00,507 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:14:00,520 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:14:00,724 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 15:14:08,699 - LoginTest -INFO - Entered Username
+2023-05-12 15:14:08,745 - LoginTest -INFO - Entered Password
+2023-05-12 15:14:10,350 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:14:10,386 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:14:10,392 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:14:10,403 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:15:32,783 - LoginTest -INFO - Login Page Opened
+2023-05-12 15:15:32,932 - LoginTest -INFO - Entered Username
+2023-05-12 15:15:33,033 - LoginTest -INFO - Entered Password
+2023-05-12 15:15:34,269 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:15:34,310 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:15:34,322 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:15:34,497 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 15:15:37,671 - LoginTest -INFO - Entered Username
+2023-05-12 15:15:37,743 - LoginTest -INFO - Entered Password
+2023-05-12 15:15:38,809 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:15:38,839 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:15:38,845 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:15:38,855 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:17:00,271 - LoginTest -INFO - Login Page Opened
+2023-05-12 15:17:00,413 - LoginTest -INFO - Entered Username
+2023-05-12 15:17:00,507 - LoginTest -INFO - Entered Password
+2023-05-12 15:17:01,523 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:17:01,562 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:17:01,575 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:17:01,771 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 15:17:07,939 - LoginTest -INFO - Entered Username
+2023-05-12 15:17:08,012 - LoginTest -INFO - Entered Password
+2023-05-12 15:17:09,423 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:17:09,450 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:17:09,460 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:17:09,472 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:19:59,309 - LoginTest -INFO - Login Page Opened
+2023-05-12 15:19:59,394 - LoginTest -INFO - Entered Username
+2023-05-12 15:19:59,463 - LoginTest -INFO - Entered Password
+2023-05-12 15:20:00,638 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:20:00,674 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:20:00,683 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:20:00,869 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 15:20:04,169 - LoginTest -INFO - Entered Username
+2023-05-12 15:20:04,243 - LoginTest -INFO - Entered Password
+2023-05-12 15:20:05,215 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:20:05,251 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:20:05,260 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:20:05,271 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:20:05,293 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-12 15:20:06,268 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-12 15:20:06,275 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-12 15:20:06,438 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-12 15:20:59,637 - LoginTest -INFO - Login Page Opened
+2023-05-12 15:20:59,763 - LoginTest -INFO - Entered Username
+2023-05-12 15:20:59,839 - LoginTest -INFO - Entered Password
+2023-05-12 15:21:00,909 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:21:00,946 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:21:00,957 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:21:01,146 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 15:21:05,635 - LoginTest -INFO - Entered Username
+2023-05-12 15:21:05,698 - LoginTest -INFO - Entered Password
+2023-05-12 15:21:06,931 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:21:06,962 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:21:06,973 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:21:06,985 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:21:07,007 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-12 15:21:07,686 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-12 15:21:07,692 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-12 15:21:07,867 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-12 15:44:30,777 - LoginTest -INFO - Login Page Opened
+2023-05-12 15:44:30,894 - LoginTest -INFO - Entered Username
+2023-05-12 15:44:30,969 - LoginTest -INFO - Entered Password
+2023-05-12 15:44:32,098 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:44:32,136 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:44:32,148 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:44:32,544 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 15:44:35,760 - LoginTest -INFO - Entered Username
+2023-05-12 15:44:35,815 - LoginTest -INFO - Entered Password
+2023-05-12 15:44:37,004 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:44:37,035 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:44:37,043 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:44:37,199 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:44:37,339 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-12 15:44:37,973 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-12 15:44:37,981 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-12 15:44:38,275 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-12 15:54:08,061 - LoginTest -INFO - Login Page Opened
+2023-05-12 15:54:08,195 - LoginTest -INFO - Entered Username
+2023-05-12 15:54:08,272 - LoginTest -INFO - Entered Password
+2023-05-12 15:54:13,361 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:54:13,406 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:54:13,418 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:54:13,795 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 15:54:25,091 - LoginTest -INFO - Entered Username
+2023-05-12 15:54:25,186 - LoginTest -INFO - Entered Password
+2023-05-12 15:54:27,174 - LoginTest -INFO - Clicked Login Button
+2023-05-12 15:54:27,222 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 15:54:27,234 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 15:54:27,417 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 15:54:27,620 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-12 15:54:28,764 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-12 15:54:28,775 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-12 15:54:29,082 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-12 16:47:28,412 - LoginTest -INFO - Login Page Opened
+2023-05-12 16:47:28,523 - LoginTest -INFO - Entered Username
+2023-05-12 16:47:28,591 - LoginTest -INFO - Entered Password
+2023-05-12 16:47:29,789 - LoginTest -INFO - Clicked Login Button
+2023-05-12 16:47:29,827 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 16:47:29,838 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 16:47:30,222 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 16:47:33,326 - LoginTest -INFO - Entered Username
+2023-05-12 16:47:33,394 - LoginTest -INFO - Entered Password
+2023-05-12 16:47:35,579 - LoginTest -INFO - Clicked Login Button
+2023-05-12 16:47:35,612 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 16:47:35,621 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 16:47:35,774 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 16:47:35,910 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-12 16:47:36,542 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-12 16:47:36,561 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-12 16:47:36,852 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-12 16:49:29,471 - LoginTest -INFO - Login Page Opened
+2023-05-12 16:49:29,612 - LoginTest -INFO - Entered Username
+2023-05-12 16:49:29,702 - LoginTest -INFO - Entered Password
+2023-05-12 16:49:31,086 - LoginTest -INFO - Clicked Login Button
+2023-05-12 16:49:31,126 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 16:49:31,140 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 16:49:31,510 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-12 16:49:34,560 - LoginTest -INFO - Entered Username
+2023-05-12 16:49:34,632 - LoginTest -INFO - Entered Password
+2023-05-12 16:49:35,881 - LoginTest -INFO - Clicked Login Button
+2023-05-12 16:49:35,914 - LoginTest -INFO - Logged In Sucessfully
+2023-05-12 16:49:35,922 - LoginTest -INFO - LoginTest Validation Done
+2023-05-12 16:49:36,084 - Home Page Test -INFO - verified HomePage Title
+2023-05-12 16:49:36,239 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-12 16:49:36,885 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-12 16:49:36,894 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-12 16:49:37,162 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 12:34:35,752 - LoginTest -INFO - Login Page Opened
+2023-05-15 12:34:35,880 - LoginTest -INFO - Entered Username
+2023-05-15 12:34:35,921 - LoginTest -INFO - Entered Password
+2023-05-15 12:34:37,161 - LoginTest -INFO - Clicked Login Button
+2023-05-15 12:34:37,189 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 12:34:37,193 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 12:34:37,492 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 12:34:40,289 - LoginTest -INFO - Entered Username
+2023-05-15 12:34:40,331 - LoginTest -INFO - Entered Password
+2023-05-15 12:34:41,477 - LoginTest -INFO - Clicked Login Button
+2023-05-15 12:34:41,501 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 12:34:41,505 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 12:34:41,618 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 12:34:41,751 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 12:34:42,423 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 12:34:42,427 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 12:34:42,694 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 12:46:38,167 - LoginTest -INFO - Login Page Opened
+2023-05-15 12:46:38,316 - LoginTest -INFO - Entered Username
+2023-05-15 12:46:38,405 - LoginTest -INFO - Entered Password
+2023-05-15 12:46:39,983 - LoginTest -INFO - Clicked Login Button
+2023-05-15 12:46:40,026 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 12:46:40,039 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 12:46:40,418 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 12:46:43,418 - LoginTest -INFO - Entered Username
+2023-05-15 12:46:43,483 - LoginTest -INFO - Entered Password
+2023-05-15 12:46:45,285 - LoginTest -INFO - Clicked Login Button
+2023-05-15 12:46:45,322 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 12:46:45,330 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 12:46:45,468 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 12:46:45,617 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 12:46:46,203 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 12:46:46,214 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 12:46:46,496 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 13:10:50,032 - LoginTest -INFO - Login Page Opened
+2023-05-15 13:10:50,172 - LoginTest -INFO - Entered Username
+2023-05-15 13:10:50,253 - LoginTest -INFO - Entered Password
+2023-05-15 13:10:51,717 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:10:51,759 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:10:51,768 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:10:52,093 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 13:10:55,071 - LoginTest -INFO - Entered Username
+2023-05-15 13:10:55,139 - LoginTest -INFO - Entered Password
+2023-05-15 13:10:56,280 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:10:56,315 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:10:56,323 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:10:56,452 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 13:10:56,592 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 13:10:57,245 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 13:10:57,252 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 13:10:57,555 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 13:11:14,345 - LoginTest -INFO - Login Page Opened
+2023-05-15 13:11:14,479 - LoginTest -INFO - Entered Username
+2023-05-15 13:11:14,564 - LoginTest -INFO - Entered Password
+2023-05-15 13:11:15,659 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:11:15,697 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:11:15,707 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:11:16,064 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 13:11:18,964 - LoginTest -INFO - Entered Username
+2023-05-15 13:11:19,029 - LoginTest -INFO - Entered Password
+2023-05-15 13:11:20,106 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:11:20,140 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:11:20,147 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:11:20,290 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 13:11:20,418 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 13:11:21,010 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 13:11:21,021 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 13:11:21,278 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 13:30:36,764 - LoginTest -INFO - Login Page Opened
+2023-05-15 13:30:36,886 - LoginTest -INFO - Entered Username
+2023-05-15 13:30:36,966 - LoginTest -INFO - Entered Password
+2023-05-15 13:30:38,257 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:30:38,295 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:30:38,305 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:30:38,676 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 13:30:43,125 - LoginTest -INFO - Entered Username
+2023-05-15 13:30:43,189 - LoginTest -INFO - Entered Password
+2023-05-15 13:30:44,526 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:30:44,554 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:30:44,562 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:30:44,696 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 13:30:44,829 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 13:30:45,696 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 13:30:45,704 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 13:30:45,988 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 13:33:13,821 - LoginTest -INFO - Login Page Opened
+2023-05-15 13:33:13,927 - LoginTest -INFO - Entered Username
+2023-05-15 13:33:13,993 - LoginTest -INFO - Entered Password
+2023-05-15 13:33:16,141 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:33:16,174 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:33:16,181 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:33:16,561 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 13:33:19,382 - LoginTest -INFO - Entered Username
+2023-05-15 13:33:19,431 - LoginTest -INFO - Entered Password
+2023-05-15 13:33:20,550 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:33:20,574 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:33:20,577 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:33:20,724 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 13:33:20,861 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 13:33:21,470 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 13:33:21,476 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 13:33:21,767 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 13:33:54,365 - LoginTest -INFO - Login Page Opened
+2023-05-15 13:33:54,464 - LoginTest -INFO - Entered Username
+2023-05-15 13:33:54,533 - LoginTest -INFO - Entered Password
+2023-05-15 13:33:55,684 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:33:55,722 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:33:55,733 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:33:56,107 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 13:33:59,043 - LoginTest -INFO - Entered Username
+2023-05-15 13:33:59,094 - LoginTest -INFO - Entered Password
+2023-05-15 13:34:00,253 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:34:00,278 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:34:00,283 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:34:00,420 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 13:34:00,543 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 13:34:01,234 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 13:34:01,240 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 13:34:01,529 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 13:38:11,753 - LoginTest -INFO - Login Page Opened
+2023-05-15 13:38:11,825 - LoginTest -INFO - Entered Username
+2023-05-15 13:38:11,877 - LoginTest -INFO - Entered Password
+2023-05-15 13:38:13,132 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:38:13,155 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:38:13,160 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:38:13,504 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 13:38:16,681 - LoginTest -INFO - Entered Username
+2023-05-15 13:38:16,738 - LoginTest -INFO - Entered Password
+2023-05-15 13:38:18,011 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:38:18,041 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:38:18,045 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:38:18,197 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 13:38:18,346 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 13:38:20,282 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 13:38:20,291 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 13:38:20,620 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 13:50:18,302 - LoginTest -INFO - Login Page Opened
+2023-05-15 13:50:18,440 - LoginTest -INFO - Entered Username
+2023-05-15 13:50:18,528 - LoginTest -INFO - Entered Password
+2023-05-15 13:50:22,980 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:50:23,024 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:50:23,036 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:50:23,390 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 13:50:26,452 - LoginTest -INFO - Entered Username
+2023-05-15 13:50:26,517 - LoginTest -INFO - Entered Password
+2023-05-15 13:50:27,840 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:50:27,866 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:50:27,875 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:50:28,046 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 13:50:28,183 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 13:50:33,115 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 13:50:33,126 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 13:50:33,467 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 13:51:10,367 - LoginTest -INFO - Login Page Opened
+2023-05-15 13:51:10,507 - LoginTest -INFO - Entered Username
+2023-05-15 13:51:10,598 - LoginTest -INFO - Entered Password
+2023-05-15 13:51:11,871 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:51:11,916 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:51:11,928 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:51:12,290 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 13:51:15,255 - LoginTest -INFO - Entered Username
+2023-05-15 13:51:15,320 - LoginTest -INFO - Entered Password
+2023-05-15 13:51:16,435 - LoginTest -INFO - Clicked Login Button
+2023-05-15 13:51:16,472 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 13:51:16,479 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 13:51:16,644 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 13:51:16,794 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 13:51:17,433 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 13:51:17,444 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 13:51:17,778 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 14:05:51,312 - LoginTest -INFO - Login Page Opened
+2023-05-15 14:05:51,453 - LoginTest -INFO - Entered Username
+2023-05-15 14:05:51,546 - LoginTest -INFO - Entered Password
+2023-05-15 14:05:55,466 - LoginTest -INFO - Clicked Login Button
+2023-05-15 14:05:55,507 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 14:05:55,519 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 14:05:55,840 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 14:05:58,826 - LoginTest -INFO - Entered Username
+2023-05-15 14:05:58,896 - LoginTest -INFO - Entered Password
+2023-05-15 14:05:59,977 - LoginTest -INFO - Clicked Login Button
+2023-05-15 14:06:00,018 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 14:06:00,026 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 14:06:00,184 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 14:06:00,351 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 14:06:00,994 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 14:06:01,004 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 14:06:01,328 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 14:10:54,057 - LoginTest -INFO - Login Page Opened
+2023-05-15 14:10:54,187 - LoginTest -INFO - Entered Username
+2023-05-15 14:10:54,271 - LoginTest -INFO - Entered Password
+2023-05-15 14:10:57,851 - LoginTest -INFO - Clicked Login Button
+2023-05-15 14:10:57,896 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 14:10:57,907 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 14:10:58,276 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 14:11:01,233 - LoginTest -INFO - Entered Username
+2023-05-15 14:11:01,289 - LoginTest -INFO - Entered Password
+2023-05-15 14:11:02,621 - LoginTest -INFO - Clicked Login Button
+2023-05-15 14:11:02,664 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 14:11:02,675 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 14:11:02,837 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 14:11:02,992 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 14:11:03,663 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 14:11:03,673 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 14:11:03,953 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 14:39:08,358 - LoginTest -INFO - Login Page Opened
+2023-05-15 14:39:08,437 - LoginTest -INFO - Entered Username
+2023-05-15 14:39:08,509 - LoginTest -INFO - Entered Password
+2023-05-15 14:39:09,610 - LoginTest -INFO - Clicked Login Button
+2023-05-15 14:39:09,645 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 14:39:09,654 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 14:39:10,082 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 14:39:13,017 - LoginTest -INFO - Entered Username
+2023-05-15 14:39:13,083 - LoginTest -INFO - Entered Password
+2023-05-15 14:39:14,261 - LoginTest -INFO - Clicked Login Button
+2023-05-15 14:39:14,296 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 14:39:14,305 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 14:39:14,582 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 14:39:14,833 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 14:39:15,623 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 14:39:15,633 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 14:39:15,909 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 15:14:55,680 - LoginTest -INFO - Login Page Opened
+2023-05-15 15:14:55,766 - LoginTest -INFO - Entered Username
+2023-05-15 15:14:55,827 - LoginTest -INFO - Entered Password
+2023-05-15 15:14:57,100 - LoginTest -INFO - Clicked Login Button
+2023-05-15 15:14:57,125 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 15:14:57,131 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 15:14:57,476 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 15:15:00,419 - LoginTest -INFO - Entered Username
+2023-05-15 15:15:00,483 - LoginTest -INFO - Entered Password
+2023-05-15 15:15:01,728 - LoginTest -INFO - Clicked Login Button
+2023-05-15 15:15:01,756 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 15:15:01,763 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 15:15:01,937 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 15:15:02,096 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 15:15:02,768 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 15:15:02,775 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 15:15:03,136 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 15:15:56,133 - LoginTest -INFO - Login Page Opened
+2023-05-15 15:15:56,233 - LoginTest -INFO - Entered Username
+2023-05-15 15:15:56,303 - LoginTest -INFO - Entered Password
+2023-05-15 15:15:57,539 - LoginTest -INFO - Clicked Login Button
+2023-05-15 15:15:57,564 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 15:15:57,568 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 15:15:57,955 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 15:16:01,037 - LoginTest -INFO - Entered Username
+2023-05-15 15:16:01,102 - LoginTest -INFO - Entered Password
+2023-05-15 15:16:02,201 - LoginTest -INFO - Clicked Login Button
+2023-05-15 15:16:02,230 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 15:16:02,240 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 15:16:02,408 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 15:16:02,570 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 15:16:03,209 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 15:16:03,217 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 15:16:03,530 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-15 15:17:51,908 - LoginTest -INFO - Login Page Opened
+2023-05-15 15:17:52,019 - LoginTest -INFO - Entered Username
+2023-05-15 15:17:52,092 - LoginTest -INFO - Entered Password
+2023-05-15 15:17:54,854 - LoginTest -INFO - Clicked Login Button
+2023-05-15 15:17:54,886 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 15:17:54,895 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 15:17:55,280 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-15 15:17:58,255 - LoginTest -INFO - Entered Username
+2023-05-15 15:17:58,328 - LoginTest -INFO - Entered Password
+2023-05-15 15:17:59,403 - LoginTest -INFO - Clicked Login Button
+2023-05-15 15:17:59,435 - LoginTest -INFO - Logged In Sucessfully
+2023-05-15 15:17:59,445 - LoginTest -INFO - LoginTest Validation Done
+2023-05-15 15:17:59,610 - Home Page Test -INFO - verified HomePage Title
+2023-05-15 15:17:59,777 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-15 15:18:00,443 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-15 15:18:00,451 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-15 15:18:00,774 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-16 10:53:19,280 - LoginTest -INFO - Login Page Opened
+2023-05-16 10:53:19,418 - LoginTest -INFO - Entered Username
+2023-05-16 10:53:19,499 - LoginTest -INFO - Entered Password
+2023-05-16 10:53:22,251 - LoginTest -INFO - Clicked Login Button
+2023-05-16 10:53:22,289 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 10:53:22,298 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 10:53:22,665 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-16 10:53:44,231 - LoginTest -INFO - Entered Username
+2023-05-16 10:53:44,326 - LoginTest -INFO - Entered Password
+2023-05-16 10:53:50,151 - LoginTest -INFO - Clicked Login Button
+2023-05-16 10:53:50,193 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 10:53:50,203 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 10:53:50,372 - Home Page Test -INFO - verified HomePage Title
+2023-05-16 10:53:50,544 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-16 10:53:55,729 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-16 10:53:55,740 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-16 10:53:56,017 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-16 10:55:31,387 - LoginTest -INFO - Login Page Opened
+2023-05-16 10:55:31,514 - LoginTest -INFO - Entered Username
+2023-05-16 10:55:31,600 - LoginTest -INFO - Entered Password
+2023-05-16 10:55:36,320 - LoginTest -INFO - Clicked Login Button
+2023-05-16 10:55:36,360 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 10:55:36,370 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 10:55:36,740 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-16 10:56:08,516 - LoginTest -INFO - Entered Username
+2023-05-16 10:56:08,594 - LoginTest -INFO - Entered Password
+2023-05-16 10:56:17,735 - LoginTest -INFO - Clicked Login Button
+2023-05-16 10:56:17,782 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 10:56:17,793 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 10:56:17,951 - Home Page Test -INFO - verified HomePage Title
+2023-05-16 10:56:18,111 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-16 10:56:20,678 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-16 10:56:20,688 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-16 10:56:20,990 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-16 22:09:26,732 - LoginTest -INFO - Login Page Opened
+2023-05-16 22:09:26,887 - LoginTest -INFO - Entered Username
+2023-05-16 22:09:26,985 - LoginTest -INFO - Entered Password
+2023-05-16 22:09:28,324 - LoginTest -INFO - Clicked Login Button
+2023-05-16 22:09:28,367 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 22:09:28,380 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 22:09:28,775 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-16 22:09:32,234 - LoginTest -INFO - Entered Username
+2023-05-16 22:09:32,301 - LoginTest -INFO - Entered Password
+2023-05-16 22:09:33,496 - LoginTest -INFO - Clicked Login Button
+2023-05-16 22:09:33,527 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 22:09:33,537 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 22:09:33,694 - Home Page Test -INFO - verified HomePage Title
+2023-05-16 22:09:33,848 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-16 22:09:34,520 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-16 22:09:34,530 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-16 22:09:34,814 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-16 22:45:53,552 - LoginTest -INFO - Login Page Opened
+2023-05-16 22:45:53,681 - LoginTest -INFO - Entered Username
+2023-05-16 22:45:53,764 - LoginTest -INFO - Entered Password
+2023-05-16 22:45:55,171 - LoginTest -INFO - Clicked Login Button
+2023-05-16 22:45:55,211 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 22:45:55,222 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 22:45:55,578 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-16 22:45:59,112 - LoginTest -INFO - Entered Username
+2023-05-16 22:45:59,164 - LoginTest -INFO - Entered Password
+2023-05-16 22:46:02,421 - LoginTest -INFO - Clicked Login Button
+2023-05-16 22:46:02,454 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 22:46:02,462 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 22:46:02,601 - Home Page Test -INFO - verified HomePage Title
+2023-05-16 22:46:02,738 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-16 22:46:03,783 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-16 22:46:03,791 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-16 22:46:04,063 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-16 22:51:55,318 - LoginTest -INFO - Login Page Opened
+2023-05-16 22:51:55,440 - LoginTest -INFO - Entered Username
+2023-05-16 22:51:55,533 - LoginTest -INFO - Entered Password
+2023-05-16 22:51:57,084 - LoginTest -INFO - Clicked Login Button
+2023-05-16 22:51:57,127 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 22:51:57,140 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 22:51:57,517 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-16 22:52:04,350 - LoginTest -INFO - Entered Username
+2023-05-16 22:52:04,396 - LoginTest -INFO - Entered Password
+2023-05-16 22:52:05,676 - LoginTest -INFO - Clicked Login Button
+2023-05-16 22:52:05,706 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 22:52:05,714 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 22:52:05,887 - Home Page Test -INFO - verified HomePage Title
+2023-05-16 22:52:06,028 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-16 22:52:06,741 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-16 22:52:06,752 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-16 22:52:07,016 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-16 23:20:21,583 - LoginTest -INFO - Login Page Opened
+2023-05-16 23:20:21,722 - LoginTest -INFO - Entered Username
+2023-05-16 23:20:21,784 - LoginTest -INFO - Entered Password
+2023-05-16 23:20:23,472 - LoginTest -INFO - Clicked Login Button
+2023-05-16 23:20:23,511 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 23:20:23,518 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 23:20:23,890 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-16 23:20:36,171 - LoginTest -INFO - Entered Username
+2023-05-16 23:20:36,259 - LoginTest -INFO - Entered Password
+2023-05-16 23:20:37,973 - LoginTest -INFO - Clicked Login Button
+2023-05-16 23:20:38,030 - LoginTest -INFO - Logged In Sucessfully
+2023-05-16 23:20:38,042 - LoginTest -INFO - LoginTest Validation Done
+2023-05-16 23:20:38,242 - Home Page Test -INFO - verified HomePage Title
+2023-05-16 23:20:38,434 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-16 23:20:39,168 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-16 23:20:39,180 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-16 23:20:39,592 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-17 17:23:44,323 - LoginTest -INFO - Login Page Opened
+2023-05-17 17:23:44,455 - LoginTest -INFO - Entered Username
+2023-05-17 17:23:44,542 - LoginTest -INFO - Entered Password
+2023-05-17 17:23:46,039 - LoginTest -INFO - Clicked Login Button
+2023-05-17 17:23:46,084 - LoginTest -INFO - Logged In Sucessfully
+2023-05-17 17:23:46,094 - LoginTest -INFO - LoginTest Validation Done
+2023-05-17 17:23:46,485 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-17 17:23:49,558 - LoginTest -INFO - Entered Username
+2023-05-17 17:23:49,627 - LoginTest -INFO - Entered Password
+2023-05-17 17:23:50,747 - LoginTest -INFO - Clicked Login Button
+2023-05-17 17:23:50,781 - LoginTest -INFO - Logged In Sucessfully
+2023-05-17 17:23:50,789 - LoginTest -INFO - LoginTest Validation Done
+2023-05-17 17:23:50,916 - Home Page Test -INFO - verified HomePage Title
+2023-05-17 17:23:51,079 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-17 17:23:51,737 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-17 17:23:51,746 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-17 17:23:52,023 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-17 17:40:05,225 - LoginTest -INFO - Login Page Opened
+2023-05-17 17:40:05,349 - LoginTest -INFO - Entered Username
+2023-05-17 17:40:05,428 - LoginTest -INFO - Entered Password
+2023-05-17 17:40:06,654 - LoginTest -INFO - Clicked Login Button
+2023-05-17 17:40:06,696 - LoginTest -INFO - Logged In Sucessfully
+2023-05-17 17:40:06,707 - LoginTest -INFO - LoginTest Validation Done
+2023-05-17 17:40:07,071 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-17 17:40:10,096 - LoginTest -INFO - Entered Username
+2023-05-17 17:40:10,156 - LoginTest -INFO - Entered Password
+2023-05-17 17:40:11,207 - LoginTest -INFO - Clicked Login Button
+2023-05-17 17:40:11,233 - LoginTest -INFO - Logged In Sucessfully
+2023-05-17 17:40:11,239 - LoginTest -INFO - LoginTest Validation Done
+2023-05-17 17:40:11,410 - Home Page Test -INFO - verified HomePage Title
+2023-05-17 17:40:11,541 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-17 17:40:12,166 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-17 17:40:12,176 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-17 17:40:12,456 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-19 15:04:14,661 - LoginTest -INFO - Login Page Opened
+2023-05-19 15:04:14,758 - LoginTest -INFO - Entered Username
+2023-05-19 15:04:14,798 - LoginTest -INFO - Entered Password
+2023-05-19 15:04:15,960 - LoginTest -INFO - Clicked Login Button
+2023-05-19 15:04:15,987 - LoginTest -INFO - Logged In Sucessfully
+2023-05-19 15:04:15,991 - LoginTest -INFO - LoginTest Validation Done
+2023-05-19 15:04:16,300 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-19 15:04:19,149 - LoginTest -INFO - Entered Username
+2023-05-19 15:04:19,191 - LoginTest -INFO - Entered Password
+2023-05-19 15:04:20,299 - LoginTest -INFO - Clicked Login Button
+2023-05-19 15:04:20,329 - LoginTest -INFO - Logged In Sucessfully
+2023-05-19 15:04:20,336 - LoginTest -INFO - LoginTest Validation Done
+2023-05-19 15:04:20,479 - Home Page Test -INFO - verified HomePage Title
+2023-05-19 15:04:20,607 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-19 15:04:21,219 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-19 15:04:21,224 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-19 15:04:21,509 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-19 15:06:41,785 - LoginTest -INFO - Login Page Opened
+2023-05-19 15:06:41,867 - LoginTest -INFO - Entered Username
+2023-05-19 15:06:41,909 - LoginTest -INFO - Entered Password
+2023-05-19 15:06:45,069 - LoginTest -INFO - Clicked Login Button
+2023-05-19 15:06:45,100 - LoginTest -INFO - Logged In Sucessfully
+2023-05-19 15:06:45,106 - LoginTest -INFO - LoginTest Validation Done
+2023-05-19 15:06:45,421 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-19 15:06:48,439 - LoginTest -INFO - Entered Username
+2023-05-19 15:06:48,479 - LoginTest -INFO - Entered Password
+2023-05-19 15:06:49,608 - LoginTest -INFO - Clicked Login Button
+2023-05-19 15:06:49,629 - LoginTest -INFO - Logged In Sucessfully
+2023-05-19 15:06:49,634 - LoginTest -INFO - LoginTest Validation Done
+2023-05-19 15:06:49,758 - Home Page Test -INFO - verified HomePage Title
+2023-05-19 15:06:49,901 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-19 15:06:50,487 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-19 15:06:50,491 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-19 15:06:50,722 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-19 15:15:41,017 - LoginTest -INFO - Login Page Opened
+2023-05-19 15:15:41,161 - LoginTest -INFO - Entered Username
+2023-05-19 15:15:41,227 - LoginTest -INFO - Entered Password
+2023-05-19 15:15:42,483 - LoginTest -INFO - Clicked Login Button
+2023-05-19 15:15:42,509 - LoginTest -INFO - Logged In Sucessfully
+2023-05-19 15:15:42,514 - LoginTest -INFO - LoginTest Validation Done
+2023-05-19 15:15:42,825 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-19 15:15:45,697 - LoginTest -INFO - Entered Username
+2023-05-19 15:15:45,739 - LoginTest -INFO - Entered Password
+2023-05-19 15:15:46,880 - LoginTest -INFO - Clicked Login Button
+2023-05-19 15:15:46,903 - LoginTest -INFO - Logged In Sucessfully
+2023-05-19 15:15:46,908 - LoginTest -INFO - LoginTest Validation Done
+2023-05-19 15:15:47,033 - Home Page Test -INFO - verified HomePage Title
+2023-05-19 15:15:47,179 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-19 15:15:47,787 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-19 15:15:47,793 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-19 15:15:48,054 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-19 15:40:46,264 - LoginTest -INFO - Login Page Opened
+2023-05-19 15:40:46,396 - LoginTest -INFO - Entered Username
+2023-05-19 15:40:46,478 - LoginTest -INFO - Entered Password
+2023-05-19 15:40:55,289 - LoginTest -INFO - Clicked Login Button
+2023-05-19 15:40:55,336 - LoginTest -INFO - Logged In Sucessfully
+2023-05-19 15:40:55,348 - LoginTest -INFO - LoginTest Validation Done
+2023-05-19 15:40:55,699 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-19 15:40:58,812 - LoginTest -INFO - Entered Username
+2023-05-19 15:40:58,881 - LoginTest -INFO - Entered Password
+2023-05-19 15:40:59,939 - LoginTest -INFO - Clicked Login Button
+2023-05-19 15:40:59,976 - LoginTest -INFO - Logged In Sucessfully
+2023-05-19 15:40:59,986 - LoginTest -INFO - LoginTest Validation Done
+2023-05-19 15:41:00,144 - Home Page Test -INFO - verified HomePage Title
+2023-05-19 15:41:00,282 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-19 15:41:01,012 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-19 15:41:01,024 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-19 15:41:01,332 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-26 16:18:15,649 - LoginTest -INFO - Login Page Opened
+2023-05-26 16:18:15,791 - LoginTest -INFO - Entered Username
+2023-05-26 16:18:15,884 - LoginTest -INFO - Entered Password
+2023-05-26 16:18:17,285 - LoginTest -INFO - Clicked Login Button
+2023-05-26 16:18:17,329 - LoginTest -INFO - Logged In Sucessfully
+2023-05-26 16:18:17,341 - LoginTest -INFO - LoginTest Validation Done
+2023-05-26 16:18:17,708 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-26 16:18:27,400 - LoginTest -INFO - Entered Username
+2023-05-26 16:18:27,473 - LoginTest -INFO - Entered Password
+2023-05-26 16:18:29,027 - LoginTest -INFO - Clicked Login Button
+2023-05-26 16:18:29,067 - LoginTest -INFO - Logged In Sucessfully
+2023-05-26 16:18:29,079 - LoginTest -INFO - LoginTest Validation Done
+2023-05-26 16:18:29,254 - Home Page Test -INFO - verified HomePage Title
+2023-05-26 16:18:29,409 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-26 16:18:30,109 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-26 16:18:30,126 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-26 16:18:30,439 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-29 09:47:02,397 - LoginTest -INFO - Login Page Opened
+2023-05-29 09:47:02,476 - LoginTest -INFO - Entered Username
+2023-05-29 09:47:02,523 - LoginTest -INFO - Entered Password
+2023-05-29 09:47:07,165 - LoginTest -INFO - Clicked Login Button
+2023-05-29 09:47:07,194 - LoginTest -INFO - Logged In Sucessfully
+2023-05-29 09:47:07,200 - LoginTest -INFO - LoginTest Validation Done
+2023-05-29 09:47:07,497 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-29 09:47:17,210 - LoginTest -INFO - Entered Username
+2023-05-29 09:47:17,251 - LoginTest -INFO - Entered Password
+2023-05-29 09:47:18,572 - LoginTest -INFO - Clicked Login Button
+2023-05-29 09:47:18,600 - LoginTest -INFO - Logged In Sucessfully
+2023-05-29 09:47:18,605 - LoginTest -INFO - LoginTest Validation Done
+2023-05-29 09:47:18,765 - Home Page Test -INFO - verified HomePage Title
+2023-05-29 09:47:18,908 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-29 09:47:19,519 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-29 09:47:19,523 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-29 09:47:19,843 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-05-29 10:06:14,057 - LoginTest -INFO - Login Page Opened
+2023-05-29 10:06:14,152 - LoginTest -INFO - Entered Username
+2023-05-29 10:06:14,194 - LoginTest -INFO - Entered Password
+2023-05-29 10:06:15,610 - LoginTest -INFO - Clicked Login Button
+2023-05-29 10:06:15,639 - LoginTest -INFO - Logged In Sucessfully
+2023-05-29 10:06:15,646 - LoginTest -INFO - LoginTest Validation Done
+2023-05-29 10:06:15,986 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-05-29 10:06:19,315 - LoginTest -INFO - Entered Username
+2023-05-29 10:06:19,356 - LoginTest -INFO - Entered Password
+2023-05-29 10:06:20,970 - LoginTest -INFO - Clicked Login Button
+2023-05-29 10:06:20,994 - LoginTest -INFO - Logged In Sucessfully
+2023-05-29 10:06:20,999 - LoginTest -INFO - LoginTest Validation Done
+2023-05-29 10:06:21,138 - Home Page Test -INFO - verified HomePage Title
+2023-05-29 10:06:21,254 - Home Page Test -INFO - verified MenuItemsSize
+2023-05-29 10:06:21,922 - Home Page Test -INFO - Clicked on Logout Btn
+2023-05-29 10:06:21,926 - Home Page Test -INFO - Logged out Sucessfully
+2023-05-29 10:06:22,213 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-06-06 12:32:00,374 - LoginTest -INFO - Login Page Opened
+2023-06-06 12:32:00,497 - LoginTest -INFO - Entered Username
+2023-06-06 12:32:00,585 - LoginTest -INFO - Entered Password
+2023-06-06 12:32:02,136 - LoginTest -INFO - Clicked Login Button
+2023-06-06 12:32:02,175 - LoginTest -INFO - Logged In Sucessfully
+2023-06-06 12:32:02,185 - LoginTest -INFO - LoginTest Validation Done
+2023-06-06 12:32:02,529 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-06-06 12:32:12,426 - LoginTest -INFO - Entered Username
+2023-06-06 12:32:12,506 - LoginTest -INFO - Entered Password
+2023-06-06 12:32:14,025 - LoginTest -INFO - Clicked Login Button
+2023-06-06 12:32:14,067 - LoginTest -INFO - Logged In Sucessfully
+2023-06-06 12:32:14,078 - LoginTest -INFO - LoginTest Validation Done
+2023-06-06 12:32:14,245 - Home Page Test -INFO - verified HomePage Title
+2023-06-06 12:32:14,406 - Home Page Test -INFO - verified MenuItemsSize
+2023-06-06 12:32:15,061 - Home Page Test -INFO - Clicked on Logout Btn
+2023-06-06 12:32:15,074 - Home Page Test -INFO - Logged out Sucessfully
+2023-06-06 12:32:15,363 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-06-06 13:21:34,808 - LoginTest -INFO - Login Page Opened
+2023-06-06 13:21:34,948 - LoginTest -INFO - Entered Username
+2023-06-06 13:21:35,028 - LoginTest -INFO - Entered Password
+2023-06-06 13:21:36,621 - LoginTest -INFO - Clicked Login Button
+2023-06-06 13:21:36,662 - LoginTest -INFO - Logged In Sucessfully
+2023-06-06 13:21:36,672 - LoginTest -INFO - LoginTest Validation Done
+2023-06-06 13:21:37,012 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-06-06 13:21:49,467 - LoginTest -INFO - Entered Username
+2023-06-06 13:21:49,544 - LoginTest -INFO - Entered Password
+2023-06-06 13:21:50,998 - LoginTest -INFO - Clicked Login Button
+2023-06-06 13:21:51,035 - LoginTest -INFO - Logged In Sucessfully
+2023-06-06 13:21:51,045 - LoginTest -INFO - LoginTest Validation Done
+2023-06-06 13:21:51,211 - Home Page Test -INFO - verified HomePage Title
+2023-06-06 13:21:51,363 - Home Page Test -INFO - verified MenuItemsSize
+2023-06-06 13:21:51,956 - Home Page Test -INFO - Clicked on Logout Btn
+2023-06-06 13:21:51,971 - Home Page Test -INFO - Logged out Sucessfully
+2023-06-06 13:21:52,259 - Home Page Test -INFO - driver Session Closed Sucessfully
+2023-06-16 14:13:10,788 - LoginTest -INFO - Login Page Opened
+2023-06-16 14:13:10,853 - LoginTest -INFO - Entered Username
+2023-06-16 14:13:10,896 - LoginTest -INFO - Entered Password
+2023-06-16 14:13:16,711 - LoginTest -INFO - Clicked Login Button
+2023-06-16 14:13:16,741 - LoginTest -INFO - Logged In Sucessfully
+2023-06-16 14:13:16,748 - LoginTest -INFO - LoginTest Validation Done
+2023-06-16 14:13:17,047 - LoginTest -INFO - driver Session Closed Sucessfully
+2023-06-16 14:13:25,037 - LoginTest -INFO - Entered Username
+2023-06-16 14:13:25,076 - LoginTest -INFO - Entered Password
+2023-06-16 14:13:27,906 - LoginTest -INFO - Clicked Login Button
+2023-06-16 14:13:27,938 - LoginTest -INFO - Logged In Sucessfully
+2023-06-16 14:13:27,946 - LoginTest -INFO - LoginTest Validation Done
+2023-06-16 14:13:28,078 - Home Page Test -INFO - verified HomePage Title
+2023-06-16 14:13:28,216 - Home Page Test -INFO - verified MenuItemsSize
+2023-06-16 14:13:30,083 - Home Page Test -INFO - Clicked on Logout Btn
+2023-06-16 14:13:30,087 - Home Page Test -INFO - Logged out Sucessfully
+2023-06-16 14:13:30,313 - Home Page Test -INFO - driver Session Closed Sucessfully
